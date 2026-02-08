@@ -3,3 +3,4 @@ ini adalah  baris kedua
 ini adalah  baris kedua
 ini adalah  baris kedua
 ini adalah  baris kedua dan ketiga
+ini adalah baris keenam
