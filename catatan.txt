@@ -2,5 +2,6 @@ ini adalah catatan untuk file web saya.
 ini adalah  baris kedua
 ini adalah  baris kedua
 ini adalah  baris kedua
-ini adalah  baris kedua dan ketujuh
-ini adalah baris kelima
+ini adalah  baris kedua dan ketiga
+ini adalah baris keenam
+
